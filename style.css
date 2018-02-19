@@ -1,0 +1,24 @@
+p{
+	background-color: pink;
+	text-align: center;
+	border: 5px dashed black;
+}
+body {
+	background-image: url(hats.jpg);
+	background-size: cover;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+h2{
+	color: #B576A9;
+	cursor: pointer;
+
+}
+.webtext {
+	border: 3px dashed;
+}
+.active{
+	border: 3px solid red;
+}
